@@ -2,7 +2,12 @@
 
 На воркшопе изучим Numpy, Pandas, Matplotlib.
 
-TODO: Видео воркшопа
+_TODO: Новое видео про numpy pandas matplotlib_
+
+#### Старые лекции
+
+- [Видео про Numpy, Pandas 2017-10-27](https://www.youtube.com/watch?v=KHSBYv-xhuQ)
+- [Видео про Matplotlib, Seaborn 2017-11-03](https://www.youtube.com/watch?v=_CCl4BzMGBI)
 
 ## Задание
 

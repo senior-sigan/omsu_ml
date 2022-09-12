@@ -3,7 +3,7 @@
 ## Материалы занятий
 
 1. Лекция: Обзор машинного обучения и искусственного интеллекта. [Cлайды](https://docs.google.com/presentation/d/e/2PACX-1vQVhEILwxGDwuyDdMVPsNLsioaeBKJpP1vW4rXOS8ybbB2j0pXcEZpNRyuu_2qb8649Qmy3a1am_Mp_/pub?start=false&loop=false&delayms=3000)
-2. Семинар: Python, Pandas, Numpy для анализа данных.
+2. Семинар: Python, Pandas, Numpy для анализа данных. [Материалы](01_into/README.md)
 3. Лекция: Постановка задачи машинного обучения. Теорема Байеса в ML.
 4. Лекция: Линейная регрессия.
 5. Семинар: Реализация линейной регрессию на numpy.

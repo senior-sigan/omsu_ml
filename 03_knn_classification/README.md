@@ -5,6 +5,7 @@
 
 ## Дополнительные материалы
 
+- [Метрические алгоритмы - Учебник по ML от ШАД](https://ml-handbook.ru/chapters/metric_based/intro)
 - [Ближайшие соседи - sklearn](http://scikit-learn.org/stable/modules/neighbors.html)
 - [ODS курс: статья про классификацию на habr](https://habrahabr.ru/company/ods/blog/322534/#metod-blizhayshih-sosedey)
 - [Семинары по машинному обучению, ВМК МГУ. kNN-1](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem02_knn.pdf)

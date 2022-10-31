@@ -13,5 +13,7 @@
 
 ## Доп. материалы
 
+- [ШАД ml-book: ансамбли](https://ml-handbook.ru/chapters/ensembles/intro)
+- [ШАД ml-book: бустинг](https://ml-handbook.ru/chapters/grad_boost/intro)
 - [Страничка](https://scikit-learn.org/stable/modules/ensemble.html#ensemble) про ансамбли в Sklearn
 - [Документация](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble) к ансамблям в Sklearn

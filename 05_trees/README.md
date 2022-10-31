@@ -17,6 +17,8 @@
 
 ## Дополнительные Материалы
 
-- [Habrahabr: ODS деревья решений](https://habrahabr.ru/company/ods/blog/322534/#derevo-resheniy)
+- [ШАД ml-book: решающие деревья](https://ml-handbook.ru/chapters/decision_tree/intro)
+- [Habr: энтропия и деревья принятия решений](https://habr.com/ru/post/171759/)
+- [Habr: ODS деревья решений](https://habrahabr.ru/company/ods/blog/322534/#derevo-resheniy)
 - [ВМК МГУ семинары по решающим деревьям](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem04_trees.pdf)
 - [Sklearn Decision Trees](http://scikit-learn.org/stable/modules/tree.html)

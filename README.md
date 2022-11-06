@@ -19,6 +19,16 @@
 15. Лекция: Трансформеры.
 16. Семинар: Делаем поиск по картинками на CLIP.
 
+## Задания
+
+1. [Numpy](01_intro/06-hw-numpy.ipynb)
+2. [Pandas](01_intro/07-hw-pandas.ipynb)
+3. [Visualization](01_intro/08-hw-visualization.ipynb)
+4. [Linear regression](02_linear_regression/03-hw-linear-regression.ipynb)
+5. [Decision trees](05_trees/03-hw-decision-trees.ipynb)
+6. WIP: General Assignemtn
+7. WIP: Neural nets
+
 ## Что мне нужно из ПО и железа
 
 - Рекомендуем делать всё в [Google Colab](https://colab.research.google.com/) - это бесплатный облачный jupyter. Даже GPU есть для обучения нейросетей.

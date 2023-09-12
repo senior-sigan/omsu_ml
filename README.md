@@ -46,7 +46,7 @@
 
 ### Литература
 
-- [Yandex ШАД: Учебник по машинному обучению](https://ml-handbook.ru/)
+- [Yandex ШАД: Учебник по машинному обучению](https://academy.yandex.ru/handbook/ml)
 - Математические методы обучения по прецедентам. К.В. Воронцов. [pdf](http://www.machinelearning.ru/wiki/images/6/6d/voron-ml-1.pdf)
 - Deep Learning. Ian Goodfellow. Yoshua Bengio. Aaron Courville. [online book](https://www.deeplearningbook.org/)
 - Глубокое обучение. С. Николенко и др.

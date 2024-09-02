@@ -2,7 +2,9 @@
 
 ## Материалы занятий
 
-1. Лекция: Обзор машинного обучения и искусственного интеллекта. [Cлайды](https://docs.google.com/presentation/d/e/2PACX-1vQVhEILwxGDwuyDdMVPsNLsioaeBKJpP1vW4rXOS8ybbB2j0pXcEZpNRyuu_2qb8649Qmy3a1am_Mp_/pub?start=false&loop=false&delayms=3000)
+1. Лекция: Обзор машинного обучения и искусственного интеллекта.
+    - [Обзор базы](https://docs.google.com/presentation/d/1nDQ_4wwt_SR0X3_NW1f45gmjPXwpPN3ZU8f1kPViegg/pub?start=false&loop=false&delayms=3000)
+    - [Обучение людей строить запросы в нейросети](https://docs.google.com/presentation/d/19FympStiLFY4Src43D8MN-D6Rp_-sf8IzLVGQQ7jY_0/pub?start=false&loop=false&delayms=3000) 
 2. Семинар: Python, Pandas, Numpy для анализа данных. [Материалы](01_intro/README.md)
 3. Лекция: Постановка задачи машинного обучения. Теорема Байеса в ML.
 4. Лекция: Линейная регрессия.
@@ -38,11 +40,17 @@
 
 ## Дополнительные материалы
 
+- [Запись лекций 2021 года](https://youtube.com/playlist?list=PLXeMZKMKyJI4vx1cHiB_mdkh77ufir1EE&si=ZSIAMWOLkQSbD_Bh)
+- [Курс по МЛ в 7bits 2017-2018 года](https://youtube.com/playlist?list=PLLyuiBK_HOLPfRVN6r9305FKXq1ravbbX&si=vvjh-2c92XSxUucq)
+
 ### Открытые курсы
 
 - [Курс Воронцова](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
 - [Машинное обучение @ ВШЭ](http://wiki.cs.hse.ru/Машинное_обучение_1) - [git](https://github.com/esokolov/ml-course-hse)
 - [Курс на habrahabr от сообщества ODS](https://github.com/Yorko/mlcourse_open)
+- [Курс по сверточным нейросетям CS-231n 2017 года](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=MtIHMrOPrH92XB9t)
+- [СПбГУ -- 2020-2021 -- Машинное обучение](https://youtube.com/playlist?list=PLwdBkWbW0oHEUmY07a0G5jabP_fWfGQet&si=7QZ9U5PGMtlW4zZq)
+- [Курс «Глубинное обучение», Школа анализа данных 2021](https://www.youtube.com/playlist?list=PLJOzdkh8T5kpL2y8-lhHOlBxzLszSyDa0)
 
 ### Литература
 

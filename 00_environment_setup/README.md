@@ -40,13 +40,13 @@ curl https://pyenv.run | bash
 Выполните команду:
 
 ```sh
-pyenv install 3.9.13
+pyenv install 3.12.4
 ```
 
 Сделайте этот python дефолтным:
 
 ```sh
-pyenv global 3.9.13
+pyenv global 3.12.4
 ```
 
 Можете презапустить темринал. Проверьте что вверсия питона правильная
@@ -75,16 +75,12 @@ jupyter-notebook
 
 Обычно после этого открывается браузер по умолчанию по адресу http://localhost:8888 + какой-то токен. Вы можете в терминале через ctrl-click открыть jypyter.
 
+## Установка Python на Windows WSL2 (Рекомендуем!)
+
+TODO: настройка wsl2
+
+Далее идентично установке на Linux.
+
 ## Установка Python на Windows (Conda)
 
 TODO
-
-## Установка Python на Windows WSL2
-
-```
-
-```
-
-```
-
-```

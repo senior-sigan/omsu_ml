@@ -27,7 +27,7 @@
 2. [Pandas](01_intro/07-hw-pandas.ipynb)
 3. [Visualization](01_intro/08-hw-visualization.ipynb)
 4. [Linear regression](02_linear_regression/03-hw-linear-regression.ipynb)
-5. [Decision trees](05_trees/03-hw-decision-trees.ipynb)
+5. [Decision trees](06_ensembles/03-hw-ensembles.ipynb)
 6. WIP: General Assignemtn
 7. WIP: Neural nets
 
